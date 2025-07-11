@@ -57,41 +57,60 @@ I built the **entire app from scratch** — both frontend and backend — using 
 - 🎨 Clean UI with modern animations and effects
 
 ---
-
 ### 📸 Screenshots
 
-<p align="center">
-  <a href="screenshots/1-welcome.jpg">
-    <img src="screenshots/1-welcome.jpg" alt="Welcome" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/2-Login.jpg">
-    <img src="screenshots/2-Login.jpg" alt="Login" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/3-Profile.jpg">
-    <img src="screenshots/3-Profile.jpg" alt="Profile" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/4-Explore.jpg">
-    <img src="screenshots/4-Explore.jpg" alt="Explore" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/5-Search.jpg">
-    <img src="screenshots/5-Search.jpg" alt="Search" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/6-Loading.jpg">
-    <img src="screenshots/6-Loading.jpg" alt="Loading" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/7-Searches.jpg">
-    <img src="screenshots/7-Searches.jpg" alt="Searches" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/8-Reviews.jpg">
-    <img src="screenshots/8-Reviews.jpg" alt="Reviews" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/9-Setting(En).jpg">
-    <img src="screenshots/9-Setting(En).jpg" alt="Settings English" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-  <a href="screenshots/91-Setting(Hi).jpg">
-    <img src="screenshots/91-Setting(Hi).jpg" alt="Settings Hindi" style="max-width: 250px; width: 100%; height: auto; margin: 5px;"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <span style="font-weight: 500;">Onboarding</span><br><br>
+      <img src="screenshots/1-welcome.jpg" alt="Welcome" width="200px">
+    </td>
+    <td align="center">
+      <span style="font-weight: 500;">Login</span><br><br>
+      <img src="screenshots/2-Login.jpg" alt="Login" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span style="font-weight: 500;">Profile</span><br><br>
+      <img src="screenshots/3-Profile.jpg" alt="Profile" width="200px">
+    </td>
+    <td align="center">
+      <span style="font-weight: 500;">Explore</span><br><br>
+      <img src="screenshots/4-Explore.jpg" alt="Explore" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span style="font-weight: 500;">Search</span><br><br>
+      <img src="screenshots/5-Search.jpg" alt="Search" width="200px">
+    </td>
+    <td align="center">
+      <span style="font-weight: 500;">Loading</span><br><br>
+      <img src="screenshots/6-Loading.jpg" alt="Loading" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span style="font-weight: 500;">Search Results</span><br><br>
+      <img src="screenshots/7-Searches.jpg" alt="Searches" width="200px">
+    </td>
+    <td align="center">
+      <span style="font-weight: 500;">Reviews</span><br><br>
+      <img src="screenshots/8-Reviews.jpg" alt="Reviews" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span style="font-weight: 500;">Settings (English)</span><br><br>
+      <img src="screenshots/9-Setting(En).jpg" alt="Settings English" width="200px">
+    </td>
+    <td align="center">
+      <span style="font-weight: 500;">Settings (Hindi)</span><br><br>
+      <img src="screenshots/91-Setting(Hi).jpg" alt="Settings Hindi" width="200px">
+    </td>
+  </tr>
+</table>
 
 ---
 
