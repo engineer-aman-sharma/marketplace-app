@@ -1,6 +1,6 @@
 # 🛒 Bazaar Setu – Your Local & Global Shopping Marketplace
 
-[![Download from Play Store](https://img.shields.io/badge/Get%20it%20on%20Play%20Store-2025-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.bazaar.setu)
+[![Download from Play Store](https://img.shields.io/badge/Get%20it%20on%20Play%20Store-2025-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.market.search)
 
 <p align="center">
   <img src="screenshots/BazaarSetu.png" alt="Bazaar Setu Banner" width="14%"/>
@@ -12,7 +12,7 @@
 
 **Bazaar Setu** is a full-featured marketplace app that connects users with verified local shops and national sellers. Customers can browse products, chat directly with shopkeepers, and enjoy fast delivery—all from one simple, powerful Android app.
 
-> ✅ Available on Play Store: [Bazaar Setu](https://play.google.com/store/apps/details?id=com.bazaar.setu)
+> ✅ Available on Play Store: [Bazaar Setu](https://play.google.com/store/apps/details?id=com.market.search)
 
 ---
 
