@@ -57,62 +57,6 @@ I built the **entire app from scratch** — both frontend and backend — using 
 - 🎨 Clean UI with modern animations and effects
 
 ---
-### 📸 Screenshots
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <span style="font-weight: 500;">Onboarding</span><br><br>
-      <img src="screenshots/1-welcome.jpg" alt="Welcome" width="200px">
-    </td>
-    <td align="center">
-      <span style="font-weight: 500;">Login</span><br><br>
-      <img src="screenshots/2-Login.jpg" alt="Login" width="200px">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <span style="font-weight: 500;">Profile</span><br><br>
-      <img src="screenshots/3-Profile.jpg" alt="Profile" width="200px">
-    </td>
-    <td align="center">
-      <span style="font-weight: 500;">Explore</span><br><br>
-      <img src="screenshots/4-Explore.jpg" alt="Explore" width="200px">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <span style="font-weight: 500;">Search</span><br><br>
-      <img src="screenshots/5-Search.jpg" alt="Search" width="200px">
-    </td>
-    <td align="center">
-      <span style="font-weight: 500;">Loading</span><br><br>
-      <img src="screenshots/6-Loading.jpg" alt="Loading" width="200px">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <span style="font-weight: 500;">Search Results</span><br><br>
-      <img src="screenshots/7-Searches.jpg" alt="Searches" width="200px">
-    </td>
-    <td align="center">
-      <span style="font-weight: 500;">Reviews</span><br><br>
-      <img src="screenshots/8-Reviews.jpg" alt="Reviews" width="200px">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <span style="font-weight: 500;">Settings (English)</span><br><br>
-      <img src="screenshots/9-Setting(En).jpg" alt="Settings English" width="200px">
-    </td>
-    <td align="center">
-      <span style="font-weight: 500;">Settings (Hindi)</span><br><br>
-      <img src="screenshots/91-Setting(Hi).jpg" alt="Settings Hindi" width="200px">
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🚧 Project Status
 
@@ -126,6 +70,25 @@ This repository is a showcase of my work on **Bazaar Setu** , a live, production
 
 This repository is for showcase purposes only. All content is © Aman Sharma.  
 No part may be copied, reused, or modified without written permission.
+
+---
+
+<h2>📸 Screenshots :</h2>
+
+<div align="center">
+
+  <img src="screenshots/1-welcome.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/2-Login.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/3-Profile.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/4-Explore.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/5-Search.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/6-Loading.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/7-Searches.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/8-Reviews.jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/9-Setting(En).jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/91-Setting(Hi).jpg" width="250" style="margin:15px;" />
+
+</div>
 
 ---
 
