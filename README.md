@@ -77,16 +77,16 @@ No part may be copied, reused, or modified without written permission.
 
 <div align="center">
 
-  <img src="screenshots/1-welcome.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/2-Login.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/3-Profile.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/4-Explore.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/5-Search.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/6-Loading.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/7-Searches.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/8-Reviews.jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/9-Setting(En).jpg" width="250" style="margin:15px;" />
-  <img src="screenshots/91-Setting(Hi).jpg" width="250" style="margin:15px;" />
+  <img src="screenshots/1-welcome.png" width="250" style="margin:15px;" />
+  <img src="screenshots/2-Login.png" width="250" style="margin:15px;" />
+  <img src="screenshots/3-Profile.png" width="250" style="margin:15px;" />
+  <img src="screenshots/4-Explore.png" width="250" style="margin:15px;" />
+  <img src="screenshots/5-Search.png" width="250" style="margin:15px;" />
+  <img src="screenshots/6-Loading.png" width="250" style="margin:15px;" />
+  <img src="screenshots/7-Searches.png" width="250" style="margin:15px;" />
+  <img src="screenshots/8-Reviews.png" width="250" style="margin:15px;" />
+  <img src="screenshots/9-Setting(En).png" width="250" style="margin:15px;" />
+  <img src="screenshots/91-Setting(Hi).png" width="250" style="margin:15px;" />
 
 </div>
 
